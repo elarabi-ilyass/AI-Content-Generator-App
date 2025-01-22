@@ -32,7 +32,7 @@ export const SideBar = () => {
   ];
 
   return (
-    <div className="h-screen p-5 shadow-sm border">
+    <div className="h-screen p-5 shadow-sm border bg-white">
       {/* Logo Section */}
       <div className="flex justify-center border-b pb-4">
         <Image src="/1737374516877wld411m2.jpg" alt="Logo" width={90} height={90} />
